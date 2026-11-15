@@ -91,8 +91,7 @@ Shows the connections that are open on the computer right now.
 
 ![netstat result](netstat.png)
 
-P
-ING = this basically is like saying to a computer and checking if the computer is active
+PING = this basically is like saying to a computer and checking if the computer is active
 
 IPCONFIG =  gives you the networking details about your device
 
@@ -107,10 +106,3 @@ TRACERT =  shows the route your data takes to reach a website /
 in a question form it answers to this " what path does my data takes to get there?"
 
 
-## Examples
-
-ping 
-
-Result: PC1 received 192.168.1.7 from the DHCP server.
-
-Test the connection to the server
